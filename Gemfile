@@ -69,3 +69,5 @@ gem 'bootstrap'
 gem 'jquery-rails'
 
 gem "local_time"
+
+gem 'cancancan', '~> 2.0'
